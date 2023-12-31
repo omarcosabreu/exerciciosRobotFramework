@@ -1,5 +1,6 @@
 *** Settings ***
 Documentation   Exercicios com argumentos
+
 *** Variable ***
 &{PESSOA}       NOME=marcos  SOBRENOME=abreu  
 
