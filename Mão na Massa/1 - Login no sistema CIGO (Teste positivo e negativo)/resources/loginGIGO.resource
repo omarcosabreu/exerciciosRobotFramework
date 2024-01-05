@@ -32,10 +32,12 @@ Clicar no botão de Login
     Click Button    locator=${BUTTON}  
 
 Verificar se o Login foi realizado com sucesso
-    Wait Until Element Is Visible    locator=${HOMEPAGE}     
+    Wait Until Element Is Visible    locator=${HOMEPAGE} 
+    Capture Page Screenshot    
     Element Should Be Visible        locator=${HOMEPAGE}
 
 Verificar se o Login falhou     
-    Wait Until Element Is Visible    locator=${DADOSINVALIDOS}     
+    Wait Until Element Is Visible    locator=${DADOSINVALIDOS} 
+    Capture Page Screenshot    
     Element Should Be Visible        locator=${DADOSINVALIDOS}        
         
