@@ -1,7 +1,7 @@
 *** Settings ***
 Documentation    Esta suíte realiza o teste Mensagem quebrando o campo Input Operador
 ...              no sistema CIGO
-Resource         ../resources/loginGIGO.resource
+Resource         ../resources/operadorGIGO.resource
 Test Setup       Abrir o Navegador
 Test Teardown    Fechar o Navegador
 
