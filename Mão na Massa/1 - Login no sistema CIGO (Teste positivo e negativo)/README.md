@@ -5,7 +5,7 @@
 <p align="center">
   <img alt="Test Case 01" src="./src/auditar1.png" width="100%">
 
-<!-- # Test Case 2 - 11449 Validar a Grafia Incorreta da Rotina Auditoria de Dados  
+# Test Case 2 - 11449 Validar a Grafia Incorreta da Rotina Auditoria de Dados  
 
   <img alt="Test Case 02" src="./src/auditar2.png" width="100%">
-</p> -->
+</p>

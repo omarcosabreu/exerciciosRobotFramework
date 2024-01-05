@@ -35,9 +35,9 @@ O sistema exibi na tela o Titulo escrito como "Auditoria de dados"
     Capture Page Screenshot 
     # ${Dados}    Set Test Variable    ${GRAFIA}
     
-O sistema não deve exibir na tela o Titulo escrito como "${GRAFIA_ERRADA}"
-    IF  
+# O sistema não deve exibir na tela o Titulo escrito como "${GRAFIA_ERRADA}"
+#     IF  
       
-    ELSE
+#     ELSE
         
-    END
+#     END
